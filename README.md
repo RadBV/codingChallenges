@@ -1,5 +1,5 @@
 # Coding Challenges | Rad's Solutions.
-Here is a collection of all the coding challenges I've completed. Currently I have a playground for [Advent of Code](https://adventofcode.com/) challenges, but I'm hoping to expand the challenges to Leetcode, Hackerank and more.
+Here is a collection of all the coding challenges I've completed. Currently I have a playground for [Advent of Code](https://adventofcode.com/) challenges, but I'm hoping to expand the challenges to [Leetcode](https://leetcode.com/), [HackerRank](https://www.hackerrank.com/) and more.
 
  ## Latest completed challenge
  
